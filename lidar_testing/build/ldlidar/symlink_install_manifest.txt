@@ -1,0 +1,15 @@
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ament_index/resource_index/package_run_dependencies/ldlidar
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ament_index/resource_index/parent_prefix_path/ldlidar
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/environment/ament_prefix_path.sh
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/environment/ament_prefix_path.dsv
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/environment/path.sh
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/environment/path.dsv
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/local_setup.bash
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/local_setup.sh
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/local_setup.zsh
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/local_setup.dsv
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/package.dsv
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ament_index/resource_index/packages/ldlidar
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/cmake/ldlidarConfig.cmake
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/cmake/ldlidarConfig-version.cmake
+/home/revel34/lidar/lidar_testing/install/ldlidar/share/ldlidar/package.xml

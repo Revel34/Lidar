@@ -1,0 +1,1 @@
+/home/revel34/lidar/lidar_testing/build/ldlidar/ament_cmake_environment_hooks/local_setup.zsh

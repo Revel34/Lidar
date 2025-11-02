@@ -1,0 +1,1 @@
+/home/revel34/lidar/lidar_testing/src/ldrobot-lidar-ros2/ldlidar_component/component/include/defines.hpp
