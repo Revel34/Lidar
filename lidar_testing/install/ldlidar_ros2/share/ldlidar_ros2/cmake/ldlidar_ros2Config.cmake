@@ -1,0 +1,1 @@
+/home/revel34/lidar/lidar_testing/build/ldlidar_ros2/ament_cmake_core/ldlidar_ros2Config.cmake

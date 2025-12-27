@@ -1,0 +1,1 @@
+/home/revel34/lidar/lidar_testing/src/ldlidar_ros2/launch/ld06.launch.py

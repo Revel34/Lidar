@@ -1,0 +1,3 @@
+[console_scripts]
+odom_from_joint_states = src.odom_node:main
+
